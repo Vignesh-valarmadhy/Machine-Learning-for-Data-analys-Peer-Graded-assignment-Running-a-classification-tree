@@ -1,1 +1,2 @@
-# Machine-Learning-for-Data-analys-Peer-Graded-assignment-Running-a-classification-tree
+# Machine-Learning-for-Data-Analysis
+Machine Learning for Data Analysis
